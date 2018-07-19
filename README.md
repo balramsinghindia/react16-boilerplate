@@ -1,34 +1,13 @@
-<img src="https://raw.githubusercontent.com/flexdinesh/react-redux-boilerplate/master/app/components/Header/images/banner.jpg" alt="react redux boilerplate banner" align="center" />
+<img src="https://github.com/balramsinghindia/react16-boilerplate/tree/master/app/components/Header/images/logo.png" alt="react 16 boilerplate logo" align="center" />
 
 <br />
 
-<div align="center">A minimal, beginner friendly React-Redux boilerplate with all the industry best practices</div>
-
-<br />
-
-<div align="center">
-  <!-- Dependency Status -->
-  <a href="https://david-dm.org/flexdinesh/react-redux-boilerplate">
-    <img src="https://david-dm.org/flexdinesh/react-redux-boilerplate.svg" alt="Dependency Status" />
-  </a>
-  <!-- devDependency Status -->
-  <a href="https://david-dm.org/flexdinesh/react-redux-boilerplate#info=devDependencies">
-    <img src="https://david-dm.org/flexdinesh/react-redux-boilerplate/dev-status.svg" alt="devDependency Status" />
-  </a>
-  <!-- Build Status -->
-  <a href="https://travis-ci.org/flexdinesh/react-redux-boilerplate">
-    <img src="https://travis-ci.org/flexdinesh/react-redux-boilerplate.svg" alt="Build Status" />
-  </a>
-  <!-- Gitter -->
-  <a href="https://gitter.im/flexdinesh/react-redux-boilerplate">
-    <img src="https://camo.githubusercontent.com/54dc79dc7da6b76b17bc8013342da9b4266d993c/68747470733a2f2f6261646765732e6769747465722e696d2f6d78737462722f72656163742d626f696c6572706c6174652e737667" alt="Gitter Chat" />
-  </a>
-</div>
+<div align="center">A minimal, beginner friendly React 16 boilerplate with all the industry best practices</div>
 
 <br />
 
 <div align="center">
-  <sub>Created by <a href="https://twitter.com/flexdinesh">Dinesh Pandiyan</a></sub>
+  <sub>Created by <a href="https://twitter.com/erbalramsingh">Balram Singh</a></sub>
 </div>
 
 <div align="center">React Intl (https://github.com/yahoo/react-intl) is used for Internationalization.
@@ -91,17 +70,14 @@ But wait... there's more!
 
 ## Quick start
 
-1. Clone this repo using `git clone https://github.com/flexdinesh/react-redux-boilerplate.git`
-2. Move to the appropriate directory: `cd react-redux-boilerplate`.<br />
-3. Run `yarn` or `npm install` to install dependencies.<br />
+1. Clone this repo using `git clone git@github.com:balramsinghindia/react16-boilerplate.git`
+2. Move to the appropriate directory: `cd react16-boilerplate`.<br />
+3. Run `npm install` to install dependencies.<br />
 4. Run `npm start` to see the example app at `http://localhost:3000`.
 
 Now you're ready build your beautiful React Application!
 
 
-## Info
-
-These are the things I stripped out from [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - _github project rules, ngrok tunneling, shjs, service worker, webpack dll plugin, i18n, styled-components, code generators and a few more._
 
 
 ## License
