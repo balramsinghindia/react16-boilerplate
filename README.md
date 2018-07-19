@@ -10,9 +10,6 @@
   <sub>Created by <a href="https://twitter.com/erbalramsingh">Balram Singh</a></sub>
 </div>
 
-<div align="center">React Intl (https://github.com/yahoo/react-intl) is used for Internationalization.
-<sub>This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.</sub>
-</div>
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
