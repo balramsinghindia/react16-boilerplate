@@ -67,6 +67,13 @@ But wait... there's more!
   - *Catch problems:* TravisCI setup included by default, so your
     tests get run automatically on each code push.
 
+## Upcoming Features
+
+- i18n✨
+- Multi App support (optional)
+- Image compression
+- Gzip compression
+
 
 ## Quick start
 
