@@ -1,4 +1,4 @@
-<img src="https://github.com/balramsinghindia/react16-boilerplate/tree/master/app/components/Header/images/logo.png" alt="react 16 boilerplate logo" align="center" />
+<img src="https://github.com/balramsinghindia/react16-boilerplate/blob/master/app/components/Header/images/logo.png?raw=true" alt="react 16 boilerplate logo" align="center" />
 
 <br />
 
